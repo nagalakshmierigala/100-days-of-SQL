@@ -1,1 +1,1 @@
-# 100-days-of-SQL
+# Spam detection
