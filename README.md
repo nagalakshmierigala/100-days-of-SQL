@@ -1,4 +1,4 @@
-# Spam Detection Project Overview
+# Spam Detection 
 This project aims to classify SMS messages as spam or ham using the SMS Spam Collection dataset. The focus is on overcoming dataset imbalance to achieve high accuracy in spam detection.
 
 # Dataset:
